@@ -1,4 +1,3 @@
-Task 5
 #include <stdio.h>
 #include <unistd.h>
 /**
