@@ -10,7 +10,11 @@
  */
 int main(int argc, char *argv[])
 {
+<<<<<<< HEAD
 	(void) argv;
+=======
+	(void) argv; /*ignore argv*/
+>>>>>>> d1009a5d2a05e58df856f943d3915b770c58dfda
 	printf("%d\n", argc - 1);
 
 	return (0);
